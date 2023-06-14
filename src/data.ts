@@ -136,14 +136,9 @@ Fredag: kl. 8.00 – 15.00
 Du kan også sende en e-mail til os på kundeservice@jfmedier.dk.`,
     `Som abonnent på JFMs dagblade bliver du automatisk medlem af en af vore fordelsklubber. Medlemskabet er gratis og giver dig adgang til et oplevelsesunivers, hvor du finder et bredt sortiment af udflugter, foredrag, rejser og koncerter både lokalt, nationalt og ude i den store verden. Avisfordele.dk`,
     `Kontakt os på telefon:
-    Vejle
-    +45 72 28 72 72
-    Odense
-    +45 66 11 11 11
-    Esbjerg
-    +45 79 12 45 00
-    Aarhus
-    +45 87 40 10 10
-    København
-    +45 33 88 88 88`,
+    Vejle: +45 72 28 72 72
+    Odense: +45 66 11 11 11
+    Esbjerg: +45 79 12 45 00
+    Aarhus: +45 87 40 10 10
+    København: +45 33 88 88 88`,
 ]
