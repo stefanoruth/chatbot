@@ -1,6 +1,7 @@
 import { Configuration, OpenAIApi } from 'openai'
 import express from 'express'
 import { trainingData } from './data.js'
+import corsBuilder from 'cors'
 
 const apiKey = process.env.OPENAI_API_KEY || ''
 
@@ -10,6 +11,15 @@ if (!apiKey) {
 
 const app = express()
 
+app.use(
+    corsBuilder({
+        origin: (origin, callback) => {
+            // Todo implement actual cors rules.
+            callback(null, true)
+        },
+        credentials: true,
+    })
+)
 app.use(express.json())
 
 app.post('/chat', async (req, res, next) => {
