@@ -141,4 +141,5 @@ Du kan også sende en e-mail til os på kundeservice@jfmedier.dk.`,
     Esbjerg: +45 79 12 45 00
     Aarhus: +45 87 40 10 10
     København: +45 33 88 88 88`,
+    'Man kan ikke kontakte kundeservice fysisk eller personligt',
 ]
